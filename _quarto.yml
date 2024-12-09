@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
   resources:
    - "files/"
 website:
@@ -14,7 +13,8 @@ website:
     right:
       - text: "Satellite workshop"
         href: workshop.qmd
-      
+execute:
+  freeze: auto      
 format:
   html:
     theme:
