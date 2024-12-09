@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+  resources:
+   - "files/"
+website:
+  title: "CanCOTS 2025 - CCanES"
+  site-url: https://lbelzile.bitbucket.io
+  description: "Canadian Conference on Teaching Statistics / Colloque canadien sur l'enseignement de la statistique"
+  search: false
+  navbar:
+    pinned: true
+    background: "#0072ce"
+    right:
+      - text: "Satellite workshop"
+        href: workshop.qmd
+      
+format:
+  html:
+    theme:
+       - html/custom.scss
