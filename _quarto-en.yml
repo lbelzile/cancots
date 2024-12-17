@@ -5,7 +5,6 @@ project:
    - "files/"
 website:
   title: "CanCOTS 2025"
-  site-url: https://cancots.netlify.app/
   description: "Canadian Conference on Teaching Statistics"
   search: false
   navbar:
