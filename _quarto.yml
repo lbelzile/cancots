@@ -1,7 +1,10 @@
 project:
   type: website
-  resources:
-   - "_redirects"
+  post-render:
+    - "cp _redirects _site/"
+    - "rm -r _site/fr/_site"
+    - "rm _site/fr/_redirects"
+    - "rm _site/en/_redirects"
 profile:
   default: en
   group: [en, fr]
