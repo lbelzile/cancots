@@ -1,6 +1,6 @@
 project:
   type: website
-  output-dir: ./_site/
+  output-dir: ./_site/en
   resources:
    - "files/"
 website:
@@ -12,7 +12,7 @@ website:
     background: "#0072ce"
     right:
      - text: "FR"
-       href: /fr/index.html
+       href: ../fr/index.html
 lang: en
 format:
   html:

@@ -1,1 +1,0 @@
-Sitemap: https://cancots.netlify.app/fr/sitemap.xml
