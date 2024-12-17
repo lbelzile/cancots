@@ -13,7 +13,7 @@ website:
     background: "#0072ce"
     right:
       - text: "EN"
-        href: ../en/index.html
+        href: ../index.html
 lang: fr
 format:
   html:
