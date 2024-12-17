@@ -1,4 +1,4 @@
 - source: project
   netlify:
     - id: c63c86f7-cf88-4f1d-96a1-485279f40d12
-      url: 'https://cancots.netlify.app'
+      url: https://cancots.netlify.app

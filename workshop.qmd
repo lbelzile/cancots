@@ -1,5 +1,0 @@
----
-title: "Workshop"
----
-
-A satellite workshop for college instructors on simulation-based inference will take place on Tuesday, June 10th.

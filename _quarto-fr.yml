@@ -1,0 +1,23 @@
+project:
+  type: website
+  output-dir: ./_site/fr
+  resources:
+   - "files/"
+website:
+  title: "CanCOTS 2025"
+  site-url: https://cancots.netlify.app/
+  description: "Colloque canadien sur l'enseignement de la statistique"
+  search: false
+  navbar:
+    pinned: true
+    background: "#0072ce"
+    right:
+      - text: "EN"
+        href: ../en/index.html
+lang: fr
+format:
+  html:
+    theme:
+       - html/custom.scss
+       
+       
