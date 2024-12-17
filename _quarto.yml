@@ -1,6 +1,7 @@
 project:
   type: website
-
+  resources:
+   - "_redirects"
 profile:
   default: en
   group: [en, fr]
