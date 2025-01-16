@@ -82,6 +82,17 @@ The downtown campus is easily reached by public transport, either via [metro](ht
 The main room will be [Salle de cours MNP (A.536)](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/index.html) ([pdf map](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/hec-plan-ehd-niveau-5.pdf)) and adjacent study rooms (Denis-Girouard A.545 and Laurent-Ferreira A.547).
 
 
+Hotels nearby include the following
+
+
+- [Le Square Phillips Hôtel & Suites](https://www.squarephillips.com/)
+- [Château Versailles](https://www.chateauversaillesmontreal.com/)
+- [Résidences universitaires de l'UQÀM](https://residences.uqam.ca/mode-auberge/)
+- [Holiday Inn Montreal Centreville Downtown](https://www.ihg.com/holidayinn/hotels/fr/fr/montreal/yulca/hoteldetail)
+- [Best Western Plus Hotel Montreal](https://www.bestwestern.fr/fr/hotel-Montreal-BEST-WESTERN-Plus-Hotel-Montreal-67029)
+- [L'Appartement Hôtel](https://www.appartementhotel.com/fr/chambres-et-suites-montreal.html)
+
+
 # Background
 
 "Conferences On Teaching Statistics" have a long and rich history, starting from the earliest such international conferences (International Conference on Teaching Statistics – ICOTS) in 1982 (Sheffield, UK) and 1986 (Victoria, Canada). A total of eleven ICOTS have been held, every 4 years since 1982, and a number of regional versions, including
@@ -198,6 +209,18 @@ leaflet() |>
 Le campus du centre-ville est facilement accessible par transport en commun, soit avec le [métro](https://www.stm.info/fr/infos/reseaux/metro) ([station Square-Victoria-OACI](https://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci), ligne orange), ou depuis la [station de REM de la Gare Centrale](https://rem.info/fr/se-deplacer/stations-du-reseau/gare-centrale).
 
 Les discussion se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (Denis-Girouard A.545 et Laurent-Ferreira A.547).
+
+
+Les hôtels et autres hébergements à proximité incluent notamment:
+
+
+- [Le Square Phillips Hôtel & Suites](https://www.squarephillips.com/)
+- [Château Versailles](https://www.chateauversaillesmontreal.com/)
+- [Résidences universitaires de l'UQÀM](https://residences.uqam.ca/mode-auberge/)
+- [Holiday Inn Montreal Centreville Downtown](https://www.ihg.com/holidayinn/hotels/fr/fr/montreal/yulca/hoteldetail)
+- [Best Western Plus Hotel Montreal](https://www.bestwestern.fr/fr/hotel-Montreal-BEST-WESTERN-Plus-Hotel-Montreal-67029)
+- [L'Appartement Hôtel](https://www.appartementhotel.com/fr/chambres-et-suites-montreal.html)
+
 
 # Historique
 
