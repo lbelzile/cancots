@@ -55,11 +55,17 @@ To propose yourself as volunteer team leader on one of the priority areas (or to
 
 - Designing a modern Master’s Degree in Statistics - learning outcomes, curriculum, courses, textbooks and more
 - Developing WeBWorK adaptive problems for service courses
-- Adaptive Tutorials for Learning R using `learnR`
-- Incorporating AI and ethics in statistics curricula
-- Incorporating evidence-based practices in teaching
 - Universal Design for Learning in Statistics Education
 - Biostatistics courses on introduction to advanced analytical topics
+- Developing WeBWorK adaptive problems for a course in linear models
+- Teaching Portfolio Design and Review - the Hows, the Whys, and the Whats
+- Design of Learning Outcomes for Selected Statistics Topics - A Bank for Syllabi Creation
+- Adaptive Tutorials for Learning R using `webR`/Quarto Live and `learnR`
+- Rethinking Statistics Curricula that Leverages Generative AI
+- Incorporating evidence-based practices; approaches to consider can include, for example, active learning methods, spaced repetition, repeated testing, interleaving, and cumulative practice
+- Incorporation of causal inference in undergraduate courses: learning outcome, sample learning activities and sample assessment items.
+- Second statistics course for life science students: develop learning outcomes, sample learning activities, and sample assessment items
+
 
 -->
 <!-- - Incorporation of causal inference in undergraduate courses: learning outcome, sample learning activities and sample assessment items. -->
@@ -72,7 +78,7 @@ To propose yourself as volunteer team leader on one of the priority areas (or to
 
 The conference will take place on the 5th floor of the [Hélène Desmarais building](https://www.hec.ca/en/campus/helene-desmarais/index.html).
 
-> 501, rue De La Gauchetière Ouest
+> 501, rue de la Gauchetière Ouest
   Montréal, QC H2Z 1Z5
 
 
@@ -236,9 +242,9 @@ Avant la réunion, les domaines prioritaires sélectionnés seront définis, les
 - Développer des problèmes adaptatifs WeBWorK pour des cours de service
 - Conception et examen des portfolios d'enseignement
 - Banque de plans de cours et objectifs d'apprentissage pour des sujets sélectionnés
-- Tutoriels adaptatifs pour l'apprentissage de **R** à l'aide de `learnR`
-- Repenser les programmes d'enseignement de la statistique en s'appuyant sur l'intelligence artificielle générative et en incorporant des notions d'éthique
-- Incorporation de pratiques fondées sur la recherche scientifique  par exemple, des méthodes d'apprentissage actif, la répétition espacée, les tests répétés, l'entrelacement et la pratique cumulative.
+- Tutoriels adaptatifs pour l'apprentissage de R à l'aide de  `webR`/Quarto Live et `learnR`
+- Repenser les programmes d'enseignement de la statistique en s'appuyant sur l'intelligence artificielle générative
+- Incorporation de pratiques fondées sur la recherche scientifique: par exemple, des méthodes d'apprentissage actif, la répétition espacée, les tests répétés, l'entrelacement et la pratique cumulative.
 - Incorporation de l'inférence causale dans les cours de premier cycle.
 - Devis universels pour faciliter l'accessibilité de l'enseignement de la statistique à toutes les clientèles
 - Introduction à des concepts analytiques avancés pour des cours de biostatistiques
@@ -250,7 +256,7 @@ Avant la réunion, les domaines prioritaires sélectionnés seront définis, les
 
 Le congrès se déroulera au 5e étage de l'édifice [Hélène Desmarais](https://www.hec.ca/campus/helene-desmarais/index.html).
 
-> 501, rue De La Gauchetière Ouest
+> 501, rue de la Gauchetière Ouest
   Montréal, QC H2Z 1Z5
 
 
@@ -292,17 +298,17 @@ Notez que le congrès se termine la veille du grand prix de formule 1 de Montré
 
 # Atelier parallèle
 
-Un atelier dédié aux enseignant(e) du collégial se déroulera le mardi 10 juin, visant particulièrement le cours de Probabilité et statistique des programmes préuniversitaires de sciences de la nature, sciences, informatique et mathématique et sciences, lettres et arts, entre autres. La journée débutera avec deux heures de présentations. Les participant(e)s seront ensuite amené(e)s à travailler en petits groupes sur des livrables pour ramener chez eux du matériel de cours. Les quatre groupes d'intérêt identifiés sont:
+Un atelier destiné aux enseignant(e) du collégial se déroulera le mardi 10 juin, visant particulièrement le cours de Probabilité et statistique des programmes préuniversitaires. La journée débutera avec deux heures de présentations. Les participant(e)s seront ensuite amené(e)s à travailler en petits groupes sur des livrables pour ramener chez eux du matériel de cours. Les quatre groupes d'intérêt identifiés sont:
 
-- l'incorporation de jeux de données volumineux thématiques,
+- l'incorporation de jeux de données thématiques,
 - l'introduction aux langages de programmation pour la réalisation de tests et les calculs,
-- l'utilisations de simulations et d'applications interactives pour illustrer les concepts et résultats
+- l'utilisation de simulations et d'applications interactives pour illustrer les concepts et résultats
 - la construction de bases d'exercices (interactifs ou papiers).
 
 Notez qu'il y aura une séance en français et une en anglais; prière d'indiquer votre préférence si vous assistez à la journée dans le formulaire d'inscription.
 
 Les participants [peuvent s'inscrire pour l'événement sur EventBrite](
-https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont possible jusqu'au 1e juin. Les frais de 35\$ couvrent le dîner et les pauses café.
+https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont ouvertes jusqu'au 1e juin. Les frais de 35\$ couvrent le dîner et les pauses café.
 
 Horaire de la journée:
 
