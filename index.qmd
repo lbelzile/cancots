@@ -15,7 +15,7 @@ Each small group will define and, at the end of the meeting, leave with concrete
 
 [Registration is now open online until June 1st](https://www.eventbrite.ca/e/cancots-2025-tickets-1348237808579). Registration is 75\$ for postdoctoral fellows and students and 125\$ for regular members. These fees cover notably lunches and coffee breaks.
 
-
+Please note that the question form, which asks for the working group, appears only after payment has been completed.
 
 
 # Format 
@@ -26,7 +26,7 @@ Each small working group will be led by a team leader who will facilitate discus
 
 # Financial support
 
-We are reserving $4K of the budget for travel support thanks to funding from CANSSI and CRM, which will be awarded based on need. The priority will be for graduate students and early career researchers (less than five years from latest degree) without support from Tri-Council funding or equivalent grants. 
+We are reserving $4K of the budget for travel support thanks to funding from CANSSI and CRM, which will be awarded based on need. The priority will be for graduate students and early career researchers (less than five years from latest degree) without support from Tri-Council funding or equivalent grants. Priority will be given in order received until funds are exhausted.
 
 Funding will be allocated by the scientific committee after the conference and adjudicated based on need. [Participants must send their CV and a cover letter](mailto:leo.belzile@hec.ca) to the scientific committee to ask for support, explaining how they’d use the travel funds, whether not receiving funding would limit their ability to attend, and whether they have other sources of (partial) funding; the scientific committee will adjudicate the funding based on participants needs.
 
@@ -192,6 +192,7 @@ Chaque groupe définira et, à la fin de la réunion, repartira avec des résult
 
 [Le formulaire d'inscription est désormais en ligne, et ce jusqu'au 1 juin](https://www.eventbrite.ca/e/cancots-2025-tickets-1348237808579). Les frais d'inscription sont de 75\$ pour les stagiaires postdoctoraux et les étudiant(e)s, et de  125\$ sinon. Ces frais couvrent notamment les dîners et les pauses cafés, qui seront fournis.
 
+Notez que le formulaire contenant le choix de groupe et des questions socio-démographiques n'est activé qu'après la page de paiement.
 
 # Format 
 
@@ -202,7 +203,9 @@ Lors de la deuxième journée, les équipes présenteront leur progrès au débu
 
 # Soutien financier
 
-Nous réservons 4000$ pour soutenir financièrement des participant(e)s grâce à la contribution financière de l'INCASS et du CRM. Ce financement sera attribué selon les besoins, en priorisant les étudiant(e)s des cycles supérieurs et les chercheurs et chercheuses en début de carrière (moins de cinq ans depuis le premier poste) ou sans soutien des organismes subventionnaires. 
+Nous réservons 4000$ pour soutenir financièrement des participant(e)s grâce à la contribution financière de l'INCASS et du CRM. Ce financement sera attribué selon les besoins, en priorisant les étudiant(e)s des cycles supérieurs et les chercheurs et chercheuses en début de carrière (moins de cinq ans depuis le premier poste) ou sans soutien des organismes subventionnaires. Nous assignerons les fonds en priorisant l'ordre de réception.
+
+
 
 Les participant(e)s doivent [envoyer un courriel au comité organisateur](mailto:leo.belzile@hec.ca) avec un CV et une lettre de présentation expliquant comment les fonds seraient employés, si ces derniers sont nécessaires pour la participation et quelles autres sources de financement (partiel) sont à disposition.
 
