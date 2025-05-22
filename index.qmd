@@ -63,7 +63,7 @@ The list of working groups and team leaders is
 **Objectives**:
 
 - Explore methods to make statistical learning more inclusive for students with diverse learning needs, backgrounds, interests, and goals 
-- Share techniques for creating adaptable learning materials and assessment strategies which are aligned with course learning objectives
+- Share techniques for creating adaptable learning materials and assessment strategies which are aligned with course learning objectives and consider generative AI
 
 **Deliverables**:
 
@@ -130,7 +130,7 @@ The conference will take place on the 5th floor of the [Hélène Desmarais build
   Montréal, QC H2Z 1Z5
 
 
-The main room will be [Salle de cours MNP (A.536)](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/index.html) ([pdf map](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/hec-plan-ehd-niveau-5.pdf)) and adjacent study rooms.
+The main room will be [Salle de cours MNP (A.536)](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/index.html) ([pdf map](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/hec-plan-ehd-niveau-5.pdf)) and adjacent study rooms  (A.545 Denis-Girouard, A.547 Laurent_Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.365751401334!2d-73.56449911877985!3d45.502715437357786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b02024eb64b%3A0xc77fcbb1944fc2f8!2zSEVDIE1vbnRyw6lhbCAtIMOJZGlmaWNlIEjDqWzDqG5lLURlc21hcmFpcw!5e0!3m2!1sfr!2sca!4v1733540271309!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 -->
@@ -179,15 +179,15 @@ A satellite workshop for college instructors on simulation-based inference will 
 There will be a session in English and one in French; please specify your language of preference when registering.
 
 Participants [can use the form to register](
-https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); registration closes on June 1st. Registration is 35$ and covers lunch and coffee breaks.
+https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); registration closes on June 1st. Registration is 35$ and covers lunch and coffee breaks. The event will take place in Hélène-Desmarais building on the fifth floor.
 
 Schedule: 
 
-- Registration and welcome (9:00) 
-- Mini-course (9:30-10:30, 11:00-12:00)
-- Lunch break (12:00-13:00)
-- Group work (13:00-16:30)
-- Wrap-up and short presentations (16:30-17:00)
+- Registration and welcome (9:00), room A.536 (MNP)
+- Mini-course (9:30-10:30, 11:00-12:00), room A.549 (Port Moresby)
+- Lunch break (12:00-13:00)  
+- Group work (13:00-16:30), rooms A.549 Port Moresby, A.536 MNP, study rooms A.545 and A.547
+- Wrap-up and short presentations (16:30-17:00), room A.549 Port Moresby
 
 
 
@@ -311,7 +311,7 @@ Le congrès se déroulera au 5e étage de l'édifice [Hélène Desmarais](https:
   Montréal, QC H2Z 1Z5
 
 
-Les discussion se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes.
+Les discussions se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (A.545 Denis-Girouard, A.547 Laurent_Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
 
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.365751401334!2d-73.56449911877985!3d45.502715437357786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b02024eb64b%3A0xc77fcbb1944fc2f8!2zSEVDIE1vbnRyw6lhbCAtIMOJZGlmaWNlIEjDqWzDqG5lLURlc21hcmFpcw!5e0!3m2!1sfr!2sca!4v1733540271309!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -359,15 +359,15 @@ Un atelier destiné aux enseignant(e) du collégial se déroulera le mardi 10 ju
 Notez qu'il y aura une séance en français et une en anglais; prière d'indiquer votre préférence si vous assistez à la journée dans le formulaire d'inscription.
 
 Les participants [peuvent s'inscrire pour l'événement sur EventBrite](
-https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont ouvertes jusqu'au 1e juin. Les frais de 35\$ couvrent le dîner et les pauses café.
+https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont ouvertes jusqu'au 1e juin. Les frais de 35\$ couvrent le dîner et les pauses café. L'événement se déroule au cinquième étage de l'édifice Hélène-Desmarais au centre-ville.
 
 Horaire de la journée:
 
-- Inscription et mot de bienvenue (9h)
-- Mini-cours (9h30-12h, pause café de 10h30 à 11h)
+- Inscription et mot de bienvenue (9h) - salle de cours MNP A.536
+- Mini-cours (9h30-12h, pause café de 10h30 à 11h) - salle de cours MNP A.536
 - Pause dîner (12h-13h)
-- Travail en groupe (13h-16h30)
-- Mot de la fin et présentation de l'avancement (16h30-17h00)
+- Travail en groupe (13h-16h30) - salle de cours MNP A.536, salles d'études Laurent-Ferreira A.547 et Denis-Girouard A.545.
+- Mot de la fin et présentation de l'avancement (16h30-17h00) - salle de cours MNP A.536
 
 
 
