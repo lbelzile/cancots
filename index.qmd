@@ -48,6 +48,54 @@ The list of working groups and team leaders is
 8. Incorporating causal inference in statistics courses ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
 9. CEGEP satellite workshop working group
 
+### Designing a modern master program in statistics or data science
+
+**Deliverables**: 
+
+- Define potential learning objectives for a new Master's program
+- Enumerate current challenges and opportunities at Canadian universities in constructing new Master's programs in Statistics/Biostatistics, 
+- Describe the role of AI in developing the curriculum and facilitating change in existing curriculum
+- Discuss experiential learning opportunities. 
+
+
+### Universal design for learning in statistics education
+
+**Objectives**:
+
+- Explore methods to make statistical learning more inclusive for students with diverse learning needs, backgrounds, interests, and goals 
+- Share techniques for creating adaptable learning materials and assessment strategies which are aligned with course learning objectives
+
+**Deliverables**:
+
+- Creating a library of course-level learning objectives for various statistics courses (depending on participants' interests and experience), along with a banks of proposed assessment types/formats and learning activities to align with these objectives.
+
+
+### Teaching advanced analytical topics in biostatistics courses
+
+There is an increasing need to design biostatistics courses covering advanced and newer modelling techniques that better support graduate students in health sciences. I have observed two distinct features of this student cohort 
+
+- students are eager to learn and implement new modelling techniques they see in their field of literature (e.g., causal random forest, target trial etc), and 
+- they often lack the foundational knowledge and programming skills needed to fully understand these approaches. 
+
+Many of these students went on to work as clinician scientists, and methodologists at public health agencies and pharma. Traditional teaching models/curriculums for teaching undergraduate health or life sciences students do not effectively translate to this audience, motivating new approaches that align with their unique needs.
+
+**Objectives**: This working group can help discuss best practices for teaching advanced biostatistics to graduate health sciences students, modify curriculum design that balances theory with application, and create assessments that foster strategies to enhance interdisciplinary collaboration between health scientists and biostatisticians. 
+
+**Deliverables**: The proposed deliverables can potentially include a set of recommendations for course design, strategies for integrating statistical training into health sciences curricula, and a framework for strengthening interdisciplinary connections to bridge knowledge and research silos.
+
+### Incorporating artificial intelligence and ethics in statistics curriculum
+
+**Objectives**: defining clear learning outcomes for the students. In my experience, establishing well-defined learning objectives ensures that instructional activities are purposeful and that assessments align with intended goals.
+
+For generative AI, for instance, the key question should not be whether to allow its use in courses but rather how it should reshape the learning outcomes we prioritize. Are there traditional skills that should be de-emphasized? What new competencies should be developed? Should we just allow students to work with generative AI, as we do with text editors and such, or should we actually teach how to use them, and evaluate their outputs, more like we do with statistical software. I propose starting by drafting specific learning objectives, followed by discussions on how to teach and assess them effectively, including concrete evaluation methods and grading rubrics.
+
+### Incorporating causal inference in statistics courses
+
+Causal inference is not often covered in core statistics courses despite it's prevalence in biostatistics and clinical trials.  Most introductory books are too technical for users. Some core concepts are covered as part of experimental designs courses, but these often don't touch upon modern topics such as A/B testing for online experiments or quasi-experiments. Coverage of methods for observational data is often treated separately altogether, if at all. 
+
+**Deliverables**: the proposed deliverables for a working group of this class is an overall course curriculum on causal inference (including lesson plan, learning objectives, and an overall structure of course content) with two fundamental pillars: experimentation and quasi-experimentation. A stretch goal of this working group would be incorporating data science-flavored topics such as A/B testing.
+
+
 <!--
 The organizers will solicit proposals for priority areas for the small-group working sessions from the community and carry out a vote to gauge interest in the proposals.
 To propose yourself as volunteer team leader on one of the priority areas (or to suggest another one), please [fill this form](https://docs.google.com/forms/d/e/1FAIpQLSfBk5_42ThJMk9cubDE6DE7oasrEFADHDWwdycImDhvTvXixQ/viewform?usp=sharing).  In advance of the meeting, selected priority areas will be defined, team leaders will be identified, and the chosen areas will be shared with participants to elicit ideas in preparation.  As a launching pad for this community-driven shortlisting, some initial ideas will be shared.  These potential priority areas include:
