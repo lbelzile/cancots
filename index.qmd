@@ -11,12 +11,15 @@ The first Canadian Conference on Teaching Statistics (CanCOTS 2025) will be host
 
 Each small group will define and, at the end of the meeting, leave with concrete deliverables, either in progress or completed. Depending on the priority area, these deliverables could be in the form of conference proceeding papers or less traditional formats (e.g., banks of exercises, guidelines for curriculum, sample learning activities and assessment items, etc.)
 
+<!--
+
 # Registration
 
 [Registration is now open online until June 1st](https://www.eventbrite.ca/e/cancots-2025-tickets-1348237808579). Registration is 75\$ for postdoctoral fellows and students and 125\$ for regular members. These fees cover notably lunches and coffee breaks.
 
 Please note that the question form, which asks for the working group, appears only after payment has been completed.
 
+-->
 
 # Format 
 
@@ -26,7 +29,7 @@ Each small working group will be led by a team leader who will facilitate discus
 
 # Financial support
 
-We are reserving $4K of the budget for travel support thanks to funding from CANSSI and CRM, which will be awarded based on need. The priority will be for graduate students and early career researchers (less than five years from latest degree) without support from Tri-Council funding or equivalent grants. Priority will be given in order received until funds are exhausted.
+We are reserving $3K of the budget for travel support thanks to funding from CANSSI, which will be awarded based on need. The priority will be for graduate students and early career researchers (less than five years from latest degree) without support from Tri-Council funding or equivalent grants. Priority will be given in order received until funds are exhausted.
 
 Funding will be allocated by the scientific committee after the conference and adjudicated based on need. [Participants must send their CV and a cover letter](mailto:leo.belzile@hec.ca) to the scientific committee to ask for support, explaining how they’d use the travel funds, whether not receiving funding would limit their ability to attend, and whether they have other sources of (partial) funding; the scientific committee will adjudicate the funding based on participants needs.
 
@@ -39,14 +42,11 @@ Participants must choose a working group upon registration (it will be possible 
 The list of working groups and team leaders is
 
 1. Designing a modern master program in statistics or data science ([Wesley Burr](http://www.wesleyburr.com/pages/about.html), [Lisa Lix](https://home.cc.umanitoba.ca/~lixlm/))
-2. Interactive tutorials for learning via R via webR and `learnR` ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele))
-3. Universal design for learning in statistics education ([Nathalie Moon](https://www.statistics.utoronto.ca/people/directories/all-faculty/nathalie-moon))
+2. Interactive **R** tutorials for learning and assessments ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert and [Léo Belzile](https://lbelzile.bitbucket.io))
+3. Universal design and Evidence-based teaching for learning in statistics education ([Nathalie Moon](https://www.statistics.utoronto.ca/people/directories/all-faculty/nathalie-moon), [Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))
 4. Teaching advanced analytical topics in biostatistics courses ([Kuan Liu](https://www.kuan-liu.com/))
 5. Incorporating artificial intelligence and ethics in statistics curriculum ([Anne-Sophie Charest](https://anne-sophie-charest.fsg.ulaval.ca/))
-6. Evidence-based teaching ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))
-7. Inclusive and culturally responsive teaching in statistics (Arjun Banik)
-8. Incorporating causal inference in statistics courses ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
-9. CEGEP satellite workshop working group
+6. Incorporating causal inference in statistics courses ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
 
 ### Designing a modern master program in statistics or data science
 
@@ -56,6 +56,24 @@ The list of working groups and team leaders is
 - Enumerate current challenges and opportunities at Canadian universities in constructing new Master's programs in Statistics/Biostatistics, 
 - Describe the role of AI in developing the curriculum and facilitating change in existing curriculum
 - Discuss experiential learning opportunities. 
+
+### Interactive **R** tutorials for learning and assessments
+
+Thanks to software development, it is possible to use **R** for randomization of assignments and assessments, including in WebWork and via `rexams`. There are also numerous **R** packages (`learnr`, `webR`) that allow for interactive coding with automated feedback, a feature which is useful in large classrooms. This working group will explore research questions revolving around use of these tools in the classroom for asynchronous, online of flipped classrooms.
+
+**Objectives**
+
+- Determine under which circumstances interactive tutorials are most useful
+- Provide guidelines and strategies for efficient design of questions and exercises to assess learning
+- Explore different methods and integration with learning management systems
+- Determine how use of large language models (LLM) can help with question generation, and how to make questions LLM-proofed in the context of assessment.
+
+**Deliverables**:
+
+- Peer-reviewed publication or a white paper reviewing the objectives
+- Online tutorial (book format) with examples of questions and details about implementation
+- Database with sample questions and examples for different platforms
+
 
 
 ### Universal design for learning in statistics education
@@ -88,6 +106,25 @@ Many of these students went on to work as clinician scientists, and methodologis
 **Objectives**: defining clear learning outcomes for the students. In my experience, establishing well-defined learning objectives ensures that instructional activities are purposeful and that assessments align with intended goals.
 
 For generative AI, for instance, the key question should not be whether to allow its use in courses but rather how it should reshape the learning outcomes we prioritize. Are there traditional skills that should be de-emphasized? What new competencies should be developed? Should we just allow students to work with generative AI, as we do with text editors and such, or should we actually teach how to use them, and evaluate their outputs, more like we do with statistical software. I propose starting by drafting specific learning objectives, followed by discussions on how to teach and assess them effectively, including concrete evaluation methods and grading rubrics.
+
+### Evidence-based learning
+
+
+**Objectives**:
+
+- Discuss evidence-based approaches to assessment and how they can be aligned with course learning objectives to improve both feedback and learning outcomes.
+- Explore pedagogical designs that support student-centered learning, focusing on strategies that promote active engagement, critical thinking, and deeper conceptual understanding in statistics.
+- Examine research on simulation-based inference and how this innovative approach, especially through visualization, supports students' intuitive grasp of statistical inference and complex concepts.
+- Engage participants in constructing concept and/or mind maps to visualize connections between evidence-based teaching strategies and core components of statistics education, such as assessment design, conceptual understanding, and student-centered learning.
+
+**Deliverables:**
+
+- Summarize published interventions, focusing on their goals, methods, and outcomes.
+- Reflect on the feasibility and transferability of these strategies across diverse institutional contexts.
+- Share group-generated concept and mind maps that integrate assessment, pedagogy, and instructional tools.
+- Synthesize key insights into a working white paper that outlines future directions for pedagogy, research, and faculty development.
+
+### 
 
 ### Incorporating causal inference in statistics courses
 
@@ -151,6 +188,7 @@ leaflet() |>
 
 The downtown campus is easily reached by public transport, either via [metro](https://www.stm.info/en/info/networks/metro) ([Square-Victoria-OACI station](https://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci), orange line), or from the [Gare Centrale REM station](https://rem.info/en/travelling/stations/gare-centrale).
 
+Some employees of STM, the Montreal Public Transport system, will be [on strike](https://www.stm.info/fr/infos/etat-du-service/info-greve) during CanCOTS. Unless there is an agreement before next week, service will be affected on June 10th and 11th (buses and metro will only run during rush hours) and on June 12th (regular service during rush hours, 50% service outside of that window). Please plan accordingly; it is easy to get around via Bixi rental bikes or by foot downtown.
 
 # Accommodation
 
@@ -241,12 +279,14 @@ Le format du colloque CanCOTS n'est pas conventionnel. Après une première tabl
 
 Chaque groupe définira et, à la fin de la réunion, repartira avec des résultats concrets, qu'ils soient en cours de réalisation ou achevés. En fonction du domaine prioritaire, ces résultats pourraient prendre la forme d'articles de conférence ou de formats moins traditionnels (par exemple, des banques d'exercices, des lignes directrices pour les programmes d'études, des exemples d'activités d'apprentissage et d'éléments d'évaluations, etc.)
 
-
+<!--
 # Inscription
+
 
 [Le formulaire d'inscription est désormais en ligne, et ce jusqu'au 1 juin](https://www.eventbrite.ca/e/cancots-2025-tickets-1348237808579). Les frais d'inscription sont de 75\$ pour les stagiaires postdoctoraux et les étudiant(e)s, et de  125\$ sinon. Ces frais couvrent notamment les dîners et les pauses cafés, qui seront fournis.
 
 Notez que le formulaire contenant le choix de groupe et des questions socio-démographiques n'est activé qu'après la page de paiement.
+-->
 
 # Format 
 
@@ -257,7 +297,7 @@ Lors de la deuxième journée, les équipes présenteront leur progrès au débu
 
 # Soutien financier
 
-Nous réservons 4000$ pour soutenir financièrement des participant(e)s grâce à la contribution financière de l'INCASS et du CRM. Ce financement sera attribué selon les besoins, en priorisant les étudiant(e)s des cycles supérieurs et les chercheurs et chercheuses en début de carrière (moins de cinq ans depuis le premier poste) ou sans soutien des organismes subventionnaires. Nous assignerons les fonds en priorisant l'ordre de réception.
+Nous réservons 3000$ pour soutenir financièrement des participant(e)s grâce à la contribution financière de l'INCASS. Ce financement sera attribué selon les besoins, en priorisant les étudiant(e)s des cycles supérieurs et les chercheurs et chercheuses en début de carrière (moins de cinq ans depuis le premier poste) ou sans soutien des organismes subventionnaires. Nous assignerons les fonds en priorisant l'ordre de réception.
 
 
 
@@ -267,20 +307,18 @@ Les personnes récipiendaires des subventions seront sélectionnées par le comi
 
 # Domaines prioritaires
 
-Les participant(e)s doivent choisir un domaine prioritaire sur lequel ils et elles compte travailler; il est possible de se reconnecter au formulaire pour modifier ce choix après l'inscription. Chaque groupe d'intérêt définira et, à la fin de la réunion, repartira avec des livrables concrets, qu’ils soient en cours de réalisation ou achevés. Les participant(e)s doivent choisir un groupe de travail dès l'inscription (il est possible de modifier ce choix, mais les préférences exprimées servent à jauger l'intérêt). 
+Les participant(e)s doivent choisir un domaine prioritaire sur lequel ils et elles compte travailler; il est possible de se reconnecter au formulaire pour modifier ce choix après l'inscription. Chaque groupe définira et, à la fin de la réunion, repartira avec des livrables concrets, qu’ils soient en cours de réalisation ou achevés. Les participant(e)s doivent choisir un groupe de travail dès l'inscription (il est possible de modifier ce choix, mais les préférences exprimées servent à jauger l'intérêt). 
 
-La liste des groupes d'intérêt prioritaire et les responsables est
+La liste des groupes et les responsables est
 
 1. Concevoir un programme moderne de maîtrise en statistique et science des données ([Wesley Burr](http://www.wesleyburr.com/pages/about.html), [Lisa Lix](https://home.cc.umanitoba.ca/~lixlm/))
-2. Apprentissage de concepts par le biais de tutoriels interactifs via webR et `learnR` ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele)) (Russell Steele)
-3. Devis universels pour l'apprentissage de concepts statistiques ([Nathalie Moon](https://www.statistics.utoronto.ca/people/directories/all-faculty/nathalie-moon))
+2. Tutoriels et formulaires interactifs avec **R** pour l'apprentissage de la programmation et les évaluations ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert et [Léo Belzile](https://lbelzile.bitbucket.io))
+3. Devis universels et enseignement fondé sur les preuves pour l'apprentissage de concepts statistiques ([Nathalie Moon](https://www.statistics.utoronto.ca/people/directories/all-faculty/nathalie-moon) et [Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))
 4. Enseignement de concepts analytiques avancés en biostatistique ([Kuan Liu](https://www.kuan-liu.com/))
 5. Incorporer l'intelligence artificielle et l'éthique au sein du cursus ([Anne-Sophie Charest](https://anne-sophie-charest.fsg.ulaval.ca/))
-6. Enseignement fondé sur les preuves ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))
-7. Enseignement inclusif s'adaptant à la différence culturelle (Arjun Banik)
-8. Ajouter de l'inférence causale aux cours de statistique ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
-9. Groupes de travail de l'atelier destiné au collégial.
+6. Ajout de concepts d'inférence causale aux cours de statistique ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
 
+La version anglaise du site décrit les objectifs et livrables.
 <!--
 
 
@@ -332,6 +370,7 @@ leaflet() |>
 
 Le campus du centre-ville est facilement accessible par transport en commun, soit avec le [métro](https://www.stm.info/fr/infos/reseaux/metro) ([station Square-Victoria-OACI](https://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci), ligne orange), ou depuis la [station de REM de la Gare Centrale](https://rem.info/fr/se-deplacer/stations-du-reseau/gare-centrale).
 
+Les employés d'entretien de la Société des transports de Montréal (STM) seront [en grève](https://www.stm.info/fr/infos/etat-du-service/info-greve) durant CanCOTS. Cela affectera l'offre de transport en commun: en particulier, les autobus et métros ne rouleront qu'aux heures de pointe les 10 et 11 juin, et avec service réduit à 50% hors pointe le 12 juin. Merci de planifier votre trajet conformément; la marche et le vélo (Bixi) sont probablement des alternatives viables pour vos déplacements au centre-ville.
 
 # Hébergement
 
