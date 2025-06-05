@@ -190,6 +190,31 @@ The downtown campus is easily reached by public transport, either via [metro](ht
 
 Some employees of STM, the Montreal Public Transport system, will be [on strike](https://www.stm.info/fr/infos/etat-du-service/info-greve) during CanCOTS. Unless there is an agreement before next week, service will be affected on June 10th and 11th (buses and metro will only run during rush hours) and on June 12th (regular service during rush hours, 50% service outside of that window). Please plan accordingly; it is easy to get around via Bixi rental bikes or by foot downtown.
 
+# Schedule
+
+
+Wednesday June 11th
+
+- 09:00-09:10 - Introduction from the organizers
+- 09:10-10:00 - 5 to 10 minutes introduction from each group lead, including question period
+- 10:00-10:15 - Coffee break
+- 10:15-12:15 - Initial breakout
+- 12:15-13:45 - Lunch break
+- 13:45-16:00 - Second breakout
+- 16:00-16:15 - Coffee break
+- 16:15-17:00 - Summaries of the first day, brief presentations, wrap-up
+- 18:30-20:30 - Diner
+
+Thursday, June 12th
+
+- 09:00-09:10 - Welcome back
+- 09:10-12:00 - Third breakout
+- 12:00-13:30 - Lunch break
+- 13:30-14:15 - Summary presentations of accomplishments, framework for remaining work, timelines, discussion of final objective deliverables
+- 14:15-14:30 - Coffee break
+- 14:30-17:00 - Fourth and final breakout, chance to frame out remaining work and set up workflows for July/August
+
+
 # Accommodation
 
 Please note that the conference ends the day prior to Formula 1 Montreal start, so we encourage you to book your accommodation well in advance. Hotels nearby include the following
@@ -216,8 +241,11 @@ A satellite workshop for college instructors on simulation-based inference will 
 
 There will be a session in English and one in French; please specify your language of preference when registering.
 
+<!--
 Participants [can use the form to register](
-https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); registration closes on June 1st. Registration is 35$ and covers lunch and coffee breaks. The event will take place in Hélène-Desmarais building on the fifth floor.
+https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); registration closes on June 1st. 
+-->
+Registration is 35$ and covers lunch and coffee breaks. The event will take place in Hélène-Desmarais building on the fifth floor.
 
 Schedule: 
 
@@ -349,7 +377,7 @@ Le congrès se déroulera au 5e étage de l'édifice [Hélène Desmarais](https:
   Montréal, QC H2Z 1Z5
 
 
-Les discussions se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (A.545 Denis-Girouard, A.547 Laurent_Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
+Les discussions se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (A.545 Denis-Girouard, A.547 Laurent-Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
 
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.365751401334!2d-73.56449911877985!3d45.502715437357786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b02024eb64b%3A0xc77fcbb1944fc2f8!2zSEVDIE1vbnRyw6lhbCAtIMOJZGlmaWNlIEjDqWzDqG5lLURlc21hcmFpcw!5e0!3m2!1sfr!2sca!4v1733540271309!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
@@ -371,6 +399,29 @@ leaflet() |>
 Le campus du centre-ville est facilement accessible par transport en commun, soit avec le [métro](https://www.stm.info/fr/infos/reseaux/metro) ([station Square-Victoria-OACI](https://www.stm.info/fr/infos/reseaux/metro/square-victoria-oaci), ligne orange), ou depuis la [station de REM de la Gare Centrale](https://rem.info/fr/se-deplacer/stations-du-reseau/gare-centrale).
 
 Les employés d'entretien de la Société des transports de Montréal (STM) seront [en grève](https://www.stm.info/fr/infos/etat-du-service/info-greve) durant CanCOTS. Cela affectera l'offre de transport en commun: en particulier, les autobus et métros ne rouleront qu'aux heures de pointe les 10 et 11 juin, et avec service réduit à 50% hors pointe le 12 juin. Merci de planifier votre trajet conformément; la marche et le vélo (Bixi) sont probablement des alternatives viables pour vos déplacements au centre-ville.
+
+
+Wednesday June 11th
+
+- 09h00-09h10 - Mot de bienvenue
+- 09h10-10h00 - Présentation des domaines prioritaires par leurs responsables, période de réponse aux questions
+- 10h00-10h15 - Coffee break
+- 10h15-12h15 - Première séance de travail
+- 12h15-13h45 - Pause dîner
+- 13h45-16h00 - Deuxième séance de travail
+- 16h00-16h15 - Pause café
+- 16h15-17h00 - Résumé du premier jour, présentations intermédiaires et conclusion
+- 18h30-20h30 - Souper
+
+jeudi 12 juin
+
+- 09h00-09h10 - Mot be bienvenue
+- 09h10-12h00 - Troisième séance de travail
+- 12h00-13h30 - Pause dîner
+- 13h30-14h15 - Résumé des présentations, plan pour la suite, échéanciers, discussions des livrables
+- 14h15-14h30 - Pause café
+- 14h30-17h00 - Quatrième séance de travail
+
 
 # Hébergement
 
@@ -397,10 +448,14 @@ Un atelier destiné aux enseignant(e) du collégial se déroulera le mardi 10 ju
 
 Notez qu'il y aura une séance en français et une en anglais; prière d'indiquer votre préférence si vous assistez à la journée dans le formulaire d'inscription.
 
-Les participants [peuvent s'inscrire pour l'événement sur EventBrite](
-https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont ouvertes jusqu'au 1e juin. Les frais de 35\$ couvrent le dîner et les pauses café. L'événement se déroule au cinquième étage de l'édifice Hélène-Desmarais au centre-ville.
 
-Horaire de la journée:
+<!--
+Les participants [peuvent s'inscrire pour l'événement sur EventBrite](
+https://www.eventbrite.com/e/atelier-parallele-satellite-workshop-cancots-2025-cegep-tickets-1348300145029); les inscriptions sont ouvertes jusqu'au 1e juin. 
+-->
+Les frais de 35\$ couvrent le dîner et les pauses café. L'événement se déroule au cinquième étage de l'édifice Hélène-Desmarais au centre-ville.
+
+## Horaire de la journée:
 
 - Inscription et mot de bienvenue (9h) - salle de cours MNP A.536
 - Mini-cours (9h30-12h, pause café de 10h30 à 11h) - salle de cours MNP A.536
