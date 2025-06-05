@@ -401,7 +401,9 @@ Le campus du centre-ville est facilement accessible par transport en commun, soi
 Les employés d'entretien de la Société des transports de Montréal (STM) seront [en grève](https://www.stm.info/fr/infos/etat-du-service/info-greve) durant CanCOTS. Cela affectera l'offre de transport en commun: en particulier, les autobus et métros ne rouleront qu'aux heures de pointe les 10 et 11 juin, et avec service réduit à 50% hors pointe le 12 juin. Merci de planifier votre trajet conformément; la marche et le vélo (Bixi) sont probablement des alternatives viables pour vos déplacements au centre-ville.
 
 
-Wednesday June 11th
+# Horaire
+
+Mercredi 11 juin
 
 - 09h00-09h10 - Mot de bienvenue
 - 09h10-10h00 - Présentation des domaines prioritaires par leurs responsables, période de réponse aux questions
@@ -413,7 +415,7 @@ Wednesday June 11th
 - 16h15-17h00 - Résumé du premier jour, présentations intermédiaires et conclusion
 - 18h30-20h30 - Souper
 
-jeudi 12 juin
+Jeudi 12 juin
 
 - 09h00-09h10 - Mot be bienvenue
 - 09h10-12h00 - Troisième séance de travail
