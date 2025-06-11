@@ -44,8 +44,8 @@ Participants must choose a working group upon registration (it will be possible 
 The list of working groups and team leaders is
 
 1. Designing a modern master program in statistics or data science ([Wesley Burr](http://www.wesleyburr.com/pages/about.html), [Lisa Lix](https://home.cc.umanitoba.ca/~lixlm/)) - A.547 Laurent-Ferreira
-2. Interactive **R** tutorials for learning and assessments ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert and [Léo Belzile](https://lbelzile.bitbucket.io)) A.536 MNP
-3. Evidence-based teaching for learning in statistics education ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand)) A.545 Denis-Girouard
+2. Interactive **R** tutorials for learning and assessments ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert and [Léo Belzile](https://lbelzile.bitbucket.io)) - A.536 MNP
+3. Evidence-based teaching for learning in statistics education ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand)) - A.545 Denis-Girouard
 4. Teaching advanced analytical topics in biostatistics courses ([Kuan Liu](https://www.kuan-liu.com/)) - A.563 Chongqing
 5. Incorporating artificial intelligence and ethics in statistics curriculum ([Anne-Sophie Charest](https://anne-sophie-charest.fsg.ulaval.ca/)) - C.530 Telesystem
 6. Incorporating causal inference in statistics courses ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/)) - A.579 CTI Capital
@@ -159,7 +159,7 @@ The conference will take place on the 5th floor of the [Hélène Desmarais build
   Montréal, QC H2Z 1Z5
 
 
-The main room will be [Salle de cours MNP (A.536)](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/index.html) ([pdf map](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/hec-plan-ehd-niveau-5.pdf)) and adjacent study rooms  (A.545 Denis-Girouard, A.547 Laurent-Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
+The main room will be [Salle de cours MNP (A.536)](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/index.html) ([pdf map](https://www.hec.ca/en/campus/helene-desmarais/niveau-5-en-us/hec-plan-ehd-niveau-5.pdf)) and adjacent study rooms  (A.545 Denis-Girouard, A.547 Laurent-Ferreira, A.563 Chongqing, A.565 Colombo, A.579 CTI Capital).
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.365751401334!2d-73.56449911877985!3d45.502715437357786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b02024eb64b%3A0xc77fcbb1944fc2f8!2zSEVDIE1vbnRyw6lhbCAtIMOJZGlmaWNlIEjDqWzDqG5lLURlc21hcmFpcw!5e0!3m2!1sfr!2sca!4v1733540271309!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 -->
@@ -342,12 +342,14 @@ Les participant(e)s doivent choisir un domaine prioritaire sur lequel ils et ell
 
 La liste des groupes et les responsables est
 
-1. Concevoir un programme moderne de maîtrise en statistique et science des données ([Wesley Burr](http://www.wesleyburr.com/pages/about.html), [Lisa Lix](https://home.cc.umanitoba.ca/~lixlm/))
-2. Tutoriels et formulaires interactifs avec **R** pour l'apprentissage de la programmation et les évaluations ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert et [Léo Belzile](https://lbelzile.bitbucket.io))
-3. Enseignement fondé sur les preuves pour l'apprentissage de concepts statistiques ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))
-4. Enseignement de concepts analytiques avancés en biostatistique ([Kuan Liu](https://www.kuan-liu.com/))
-5. Incorporer l'intelligence artificielle et l'éthique au sein du cursus ([Anne-Sophie Charest](https://anne-sophie-charest.fsg.ulaval.ca/))
-6. Ajout de concepts d'inférence causale aux cours de statistique ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/))
+1. Concevoir un programme moderne de maîtrise en statistique et science des données ([Wesley Burr](http://www.wesleyburr.com/pages/about.html), [Lisa Lix](https://home.cc.umanitoba.ca/~lixlm/)) - A.547 Laurent-Ferreira
+2. Tutoriels et formulaires interactifs avec **R** pour l'apprentissage de la programmation et les évaluations ([Russell Steele](https://www.mcgill.ca/mathstat/russell-steele), David Riegert et [Léo Belzile](https://lbelzile.bitbucket.io)) - A.536 MNP
+3. Enseignement fondé sur les preuves pour l'apprentissage de concepts statistiques ([Asal Asleman](https://www.utm.utoronto.ca/math-cs-stats/people/asal-aslemand))  - A.545 Denis-Girouard
+4. Enseignement de concepts analytiques avancés en biostatistique ([Kuan Liu](https://www.kuan-liu.com/)) - A.563 Chongqing
+5. Incorporer l'intelligence artificielle et l'éthique au sein du cursus ([Anne-Sophie Charest](https://anne-sophie-charest.fsg.ulaval.ca/)) - C.530 Telesystem
+6. Ajout de concepts d'inférence causale aux cours de statistique ([G. Alexi Rodríguez-Arelis](https://alexrod.netlify.app/)) - A.579 CTI Capital
+
+Accès au Google Drive: [`bit.ly/cancots`](bit.ly/cancots)
 
 La version anglaise du site décrit les objectifs et livrables.
 <!--
@@ -380,7 +382,7 @@ Le congrès se déroulera au 5e étage de l'édifice [Hélène Desmarais](https:
   Montréal, QC H2Z 1Z5
 
 
-Les discussions se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (A.545 Denis-Girouard, A.547 Laurent-Ferreira, A.563 Chongqing, A.565 Colombo, A.579 Hô Chi Minh-Ville).
+Les discussions se tiendront dans la [salle de cours MNP (A.536)](https://www.hec.ca/campus/helene-desmarais/niveau-5/index.html) ([plan en pdf](https://www.hec.ca/campus/helene-desmarais/niveau-5/hec-plan-ehd-niveau-5.pdf)) et dans les salles d'études adjacentes (A.545 Denis-Girouard, A.547 Laurent-Ferreira, A.563 Chongqing, A.565 Colombo, A.579 CTI Capital).
 
 <!--
 <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2796.365751401334!2d-73.56449911877985!3d45.502715437357786!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4cc91b02024eb64b%3A0xc77fcbb1944fc2f8!2zSEVDIE1vbnRyw6lhbCAtIMOJZGlmaWNlIEjDqWzDqG5lLURlc21hcmFpcw!5e0!3m2!1sfr!2sca!4v1733540271309!5m2!1sfr!2sca" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
