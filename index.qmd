@@ -285,7 +285,6 @@ Special thanks to Antonietta Florio and Jennifer Caron for administrative suppor
 We gratefully acknowledge financial support from
 
 - the [Canadian Statistical Science Institute (CANSSI)](https://canssi.ca/) with support from [NSERC](https://www.nserc-crsng.gc.ca/index_eng.asp),
-- the [Statistical Education section](https://ssc.ca/en/about/sections-regions/statistical-education) of the [Statistical Society of Canada](https://ssc.ca/en)
 - the [*Centre de Recherche Mathématiques*](https://www.crmath.ca/)
 - [HEC Montréal](https://www.hec.ca)
 
@@ -297,7 +296,6 @@ We gratefully acknowledge financial support from
 #| fig-align: 'center'
 knitr::include_graphics(path = "files/CANSSI_logo.png")
 knitr::include_graphics(path = "files/HEC_logo.png")
-knitr::include_graphics(path = "files/SSC_logo.png")
 knitr::include_graphics(path = "files/CRM_logo.png")
 ```
 
@@ -504,7 +502,6 @@ Un merci spécial à Antonietta Florio et Jennifer Caron pour le soutien adminis
 Nous sommes reconnaissants du soutien financier
 
 - de l'[Institut canadien des sciences statistiques (INCASS)](https://incass.ca/) par le biais du  [CRSNG](https://www.nserc-crsng.gc.ca/index_fra.asp),
-- du [groupe d'éducation en statistique](https://ssc.ca/fr/a-propos/groupes-regions/education-en-statistique) de la [Société statistique du Canada](https://ssc.ca/fr)
 - du [Centre de Recherche Mathématiques](https://www.crmath.ca/)
 - de [HEC Montréal](https://www.hec.ca)
 
@@ -516,7 +513,6 @@ Nous sommes reconnaissants du soutien financier
 #| fig-align: 'center'
 knitr::include_graphics(path = "files/CANSSI_logo.png")
 knitr::include_graphics(path = "files/HEC_logo.png")
-knitr::include_graphics(path = "files/SSC_logo.png")
 knitr::include_graphics(path = "files/CRM_logo.png")
 ```
 
