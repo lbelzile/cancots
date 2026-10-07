@@ -13,6 +13,12 @@ website:
     right:
      - text: "EN"
        href: ../en/index.html
+announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "CanCOTS 2027 [se tiendra à Toronto du 22 au 24 juin 2027](https://cancots2027.github.io/index.html)."
+    type: primary
+    position: below-navbar 
 lang: fr
 format:
   html:

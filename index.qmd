@@ -6,13 +6,18 @@ toc-title: "Sections"
 
 :::{.content-visible when-profile="en"}
 
-The first Canadian Conference on Teaching Statistics (CanCOTS 2025) will be hosted by HEC Montréal from Wednesday June 11th to Thursday June 12th, 2025. CanCOTS will be a participant-driven working meeting in the style of a curated "unconference". After an initial roundtable aimed at engaging participants with state-of-the-art literature, the participants will split in small groups, each working on a priority area of interest. These priority areas will be short-listed before the meeting, so participants can arrive already having an idea of what they may want to collaboratively contribute to with their time, and can bring potential resources to share with the group.
+The first Canadian Conference on Teaching Statistics (CanCOTS 2025) was organized at HEC Montréal from Wednesday June 11th to Thursday June 12th, 2025. 
 
 
-Each small group will define and, at the end of the meeting, leave with concrete deliverables, either in progress or completed. Depending on the priority area, these deliverables could be in the form of conference proceeding papers or less traditional formats (e.g., banks of exercises, guidelines for curriculum, sample learning activities and assessment items, etc.)
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: '90%'
+#| fig-align: 'center'
+knitr::include_graphics("files/CanCOTS_group_photo.jpg")
+```
 
-[Opening remarks](files/CanCOTS_opening_remarks.pdf)
-
+Thanks for your participation! The [next edition of CanCOTS will take place in Toronto, June 22-24 2027](https://cancots2027.github.io/index.html).
 <!--
 
 # Registration
@@ -24,6 +29,13 @@ Please note that the question form, which asks for the working group, appears on
 -->
 
 # Format 
+
+CanCOTS will be a participant-driven working meeting in the style of a curated "unconference". After an initial roundtable aimed at engaging participants with state-of-the-art literature, the participants will split in small groups, each working on a priority area of interest. These priority areas will be short-listed before the meeting, so participants can arrive already having an idea of what they may want to collaboratively contribute to with their time, and can bring potential resources to share with the group.
+
+
+Each small group will define and, at the end of the meeting, leave with concrete deliverables, either in progress or completed. Depending on the priority area, these deliverables could be in the form of conference proceeding papers or less traditional formats (e.g., banks of exercises, guidelines for curriculum, sample learning activities and assessment items, etc.)
+
+[Opening remarks](files/CanCOTS_opening_remarks.pdf)
 
 
 Each small working group will be led by a team leader who will facilitate discussion and encourage progress toward the agreed upon deliverable(s). This team leader will also be responsible for giving a short introduction to the priority area to help launch the first day, and to motivate the working sessions that follow. Each group will present to all participants at the beginning of the second day to give a quick recap of the progress they made, and a final presentation at the end of the conference. The team leaders will be selected from volunteers from the community of statistics educators attending the conference, and will oversee the deliverables. CanCOTS will also be used to discuss the current state and needs of the statistical education community in Canada.
@@ -303,10 +315,20 @@ knitr::include_graphics(path = "files/CRM_logo.png")
 
 ::: {.content-visible when-profile="fr"}
 
-Le premier congrès canadien sur l'enseignement de la statistique (CanCOTS 2025) se tiendra à HEC Montréal du mercredi 11 juin au jeudi 12 juin 2025.
-Le format du colloque CanCOTS n'est pas conventionnel. Après une première table ronde visant à présenter aux participants la littérature la plus récente, les participants se diviseront en petits groupes, chacun travaillant sur un domaine d'intérêt prioritaire. Ces derniers seront présélectionnés avant la réunion, de sorte que les participants puissent arriver en ayant déjà une idée de ce à quoi ils pourraient vouloir contribuer, et qu'ils puissent apporter des ressources potentielles à partager avec le groupe.
+Le premier congrès canadien sur l'enseignement de la statistique (CanCOTS 2025) s'est tenu à HEC Montréal du mercredi 11 juin au jeudi 12 juin 2025.
 
-Chaque groupe définira et, à la fin de la réunion, repartira avec des résultats concrets, qu'ils soient en cours de réalisation ou achevés. En fonction du domaine prioritaire, ces résultats pourraient prendre la forme d'articles de conférence ou de formats moins traditionnels (par exemple, des banques d'exercices, des lignes directrices pour les programmes d'études, des exemples d'activités d'apprentissage et d'éléments d'évaluations, etc.)
+
+
+
+```{r}
+#| eval: true
+#| echo: false
+#| out-width: '90%'
+#| fig-align: 'center'
+knitr::include_graphics("files/CanCOTS_group_photo.jpg")
+```
+
+Merci de votre participation! Au plaisir de se voir à [CanCOTS 2027 à l'Université de Toronto, du 22 au 24 juin 2027](https://cancots2027.github.io/index.html)).
 
 <!--
 # Inscription
@@ -319,6 +341,10 @@ Notez que le formulaire contenant le choix de groupe et des questions socio-dém
 
 # Format 
 
+
+Le format du colloque CanCOTS n'est pas conventionnel. Après une première table ronde visant à présenter aux participants la littérature la plus récente, les participants se diviseront en petits groupes, chacun travaillant sur un domaine d'intérêt prioritaire. Ces derniers seront présélectionnés avant la réunion, de sorte que les participants puissent arriver en ayant déjà une idée de ce à quoi ils pourraient vouloir contribuer, et qu'ils puissent apporter des ressources potentielles à partager avec le groupe.
+
+Chaque groupe définira et, à la fin de la réunion, repartira avec des résultats concrets, qu'ils soient en cours de réalisation ou achevés. En fonction du domaine prioritaire, ces résultats pourraient prendre la forme d'articles de conférence ou de formats moins traditionnels (par exemple, des banques d'exercices, des lignes directrices pour les programmes d'études, des exemples d'activités d'apprentissage et d'éléments d'évaluations, etc.)
 
 Chaque petit groupe de travail sera dirigé par un(e) responsable d'équipe qui guidera les discussions et encouragera les progrès vers les résultats convenus. Cette personne sera également chargée de présenter brièvement le domaine prioritaire afin de lancer la première journée et d'animer les sessions de travail qui suivront. Ces responsables superviseront le travail de groupe et animeront les discussions.
 

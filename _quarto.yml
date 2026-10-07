@@ -9,7 +9,11 @@ project:
 profile:
   default: en
   group: [en, fr]
-  
-  
+announcement: 
+    icon: info-circle
+    dismissable: true
+    content: "CanCOTS 2027 [takes place in Toronto, June 22-24, 2027](https://cancots2027.github.io/index.html)."
+    type: primary
+    position: below-navbar   
 execute:
   freeze: true
